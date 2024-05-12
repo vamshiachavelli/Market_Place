@@ -52,7 +52,8 @@
 **School Admin**
 
  School Admin can control business owners, clubs, and students. 
- It is the same as the student page if anyone violates it, he has the control to remove 
+ It is the same as the student page if anyone violates it, he has the control to remove.
+ 
  ![image](https://github.com/vamshiachavelli/Market_Place/assets/58171768/e2aeadba-35ca-4550-b826-18e8f76e1229)
 
 **School Admin Page**
